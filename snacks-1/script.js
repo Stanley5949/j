@@ -17,7 +17,7 @@ console.log(status)
 // Crea una variabile chiamata 'tempValue' e assegnale il numero 100.
 // Nella riga successiva, cambia il suo valore in una stringa di testo.
 let tempValue = 100;
-tempValue = "cento";
+tempValue = "" + tempValue ;
 console.log(tempValue)
 
 
