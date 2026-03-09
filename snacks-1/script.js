@@ -48,3 +48,6 @@ console.log(isOdd)
 // 7. Proprietà dei dati (Notazione a punto)
 // Crea una variabile stringa con una password fittizia.
 // Salva in una nuova costante il numero di caratteri di quella password sfruttando la sua proprietà nativa.
+let password = "password";
+const passwordLength = password.length;
+console.log(passwordLength)
