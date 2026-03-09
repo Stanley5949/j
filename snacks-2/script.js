@@ -1,7 +1,10 @@
 // 8. Addizione e Sottrazione
 // Crea due variabili per il prezzo di due articoli nel carrello.
 // Calcola il totale in una nuova variabile.
-
+let prezzo1 = 12;
+let prezzo2 = 8;
+let totprezzo = prezzo1 + prezzo2;
+console.log(totprezzo)
 
 // 9. Moltiplicazione e Divisione
 // Hai una variabile con il numero totale di minuti di un video (es. 150).
