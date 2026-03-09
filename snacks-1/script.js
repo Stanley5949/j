@@ -1,7 +1,9 @@
 // 1. Variabili, const/let e convenzione camelCase
 // Crea una costante per l'anno di nascita e una variabile riassegnabile per l'età.
 // Ricorda di usare la convenzione camelCase per i nomi composti.
-
+const dataNascita = 2002;
+let eta = 24;
+console.log(eta)
 
 // 2. Case sensitivity
 // Crea due variabili, una chiamata 'status' con valore "attivo" e una chiamata 'Status' con valore "sospeso".
