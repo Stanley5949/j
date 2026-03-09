@@ -7,6 +7,10 @@ console.log(eta)
 
 // 2. Case sensitivity
 // Crea due variabili, una chiamata 'status' con valore "attivo" e una chiamata 'Status' con valore "sospeso".
+let status = "attivo";
+let Status = "sospeso";
+console.log(Status)
+console.log(status)
 
 
 // 3. Tipizzazione debole (Loosely typed)
