@@ -1,6 +1,9 @@
 // 14. Metodi delle stringhe: Maiuscolo
 // Crea una variabile con il tuo colore preferito scritto in minuscolo.
 // Usa il metodo toUpperCase() per salvarlo tutto in maiuscolo in una nuova variabile.
+let colore = "blu";
+let stampa = colore.toUpperCase();
+console.log(stampa)
 
 // 15. Metodi delle stringhe: Pulizia degli spazi
 // Simula un input utente disordinato creando una stringa con molti spazi all'inizio e alla fine.
