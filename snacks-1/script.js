@@ -24,15 +24,15 @@ console.log(tempValue)
 // 4. Tipi di dato base (Null e Undefined)
 // Crea una variabile per rappresentare un dato intenzionalmente vuoto.
 // Crea un'altra variabile dichiarandola ma lasciandola senza valore (undefined).
-//let vuoto = null;
-//let undefined;
+let vuoto = null;
+let variabile;
 
 
 
 // 5. Concatenazione moderna (Template Literals)
 // Crea due variabili per nome e corso.
 // Poi crea una terza variabile che le unisca in una frase usando i backtick.
-let nome = "Roberto";
+let nome = "Stan";
 let corso = "Python";
 let insieme = `Ciao, mi chiamo ${nome} e mi piace il corso sul ${corso}.`;
 console.log(insieme)
